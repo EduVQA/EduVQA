@@ -259,7 +259,7 @@ All models are trained on EduAVQABench and evaluated on two benchmarks.
 ---
 ## 🔹 Cross-dataset Training Analysis
 
-Models are trained on different datasets and evaluated on unseen benchmarks without fine-tuning.
+All models are trained using the EduVQA framework on different training datasets and evaluated on unseen benchmarks without fine-tuning.
 
 ---
 
