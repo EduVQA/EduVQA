@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://EduVQA.github.io/" style="margin: 0 10px;">🌐 Homepage</a> |
-  <a href="https://drive.google.com/drive/folders/1wp_aJJI4QVDjEba4pt6ewc90M-UurGTm?usp=drive_link" style="margin: 0 10px;">🎞️ Dataset</a> |
+  <a href="https://drive.google.com/drive/folders/1wp_aJJI4QVDjEba4pt6ewc90M-UurGTm?usp=sharing" style="margin: 0 10px;">🎞️ Dataset</a> |
   <a href="https://arxiv.org/abs/2603.03066" style="margin: 0 10px;">📖 Paper</a>
 </p>
 
